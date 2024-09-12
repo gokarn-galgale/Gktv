@@ -386,7 +386,6 @@ http://dream8k.pro/Ada/Ada/161833
 http://dream8k.pro/Ada/Ada/161852
 #EXTINF:0, Discovery Science 
 http://dream8k.pro/Ada/Ada/7997
-
 #EXTINF:0, History TV18 
 http://dream8k.pro/Ada/Ada/161875
 #EXTINF:0, Net Geo 
@@ -395,44 +394,6 @@ http://dream8k.pro/Ada/Ada/161892
 http://dream8k.pro/Ada/Ada/161888
 #EXTINF:0, BBC EARTH 
 http://dream8k.pro/Ada/Ada/161914
-
-#EXTINF:0,AllianBro Sab Tv
-http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/19741.ts
-http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/1918.ts
-#EXTINF:0,TVClound
-http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=3007&deviceMac=00:1A:79:1D:2A:C2
-#EXTINF:0, Test 1
-http://tv.cloudcdn.me:80/live.ts?channelId=166&uid=3007&deviceMac=00:1A:79:1D:2A:C2
-#EXTINF:-1,Zee Talkies 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
-#EXTINF:0, Disney Movies 
-https://allinonereborn.com/4k/m3u.php?id=51132
-#EXTINF:0, Discovery Vrun 
-https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:0, Zee Talkies Scrop
-http://scorpioniptv.com:2052/play/live.php?mac=00:1A:79:b3:80:85&stream=432374&extension=ts
-#EXTINF:0, B1G Yuva
-http://b1g.uk:80/live/26759/26759/12394.ts
-#EXTINF:0, Zee allin
-https://allinonereborn.com/4k/m3u.php?id=5667
-#EXTINF:0,Zee Disney 
-https://jass-three.vercel.app/ByjassDisneyHD.m3u8
-#EXTINF:0, Zee xtvoo
-http://xtv.ooo:8080/83739202/84739022/380842
-#EXTINF:0, Zee Marathi FHD 
-http://xtv.ooo:8080/83739202/84739022/380816.ts
-#EXTINF:0, Oggy and Cockroach 
-http://xtv.ooo:8080/83739202/84739022/308282.ts
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
-#EXTINF:0, test 1
-http://xtv.ooo:8080/live/83739202/84739022/380816.m3u8
-#EXTINF:0, Test 2
-http://xtv.ooo:8080/live/83739202/84739022/380816.ts
-#EXTINF:0, test short
-http://livetvbox.live:8080/802121/802121/151
-New t
 
 #EXTINF:0, gk
 
