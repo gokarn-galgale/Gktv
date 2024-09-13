@@ -18,7 +18,6 @@ http://livetvbox.live:8080/live/802121/802121/85695.ts
 #EXTINF:0, Pravah picture 
 http://livetvbox.live:8080/live/802121/802121/96364.ts
 
-
 #EXTINF:0, TV9 MARATHI 
 http://livetvbox.live:8080/802121/802121/5863
 #EXTINF:0, Zee 24Taas
@@ -47,8 +46,6 @@ http://dream8k.pro:80/live/Tracy123/Tracy123/164428.ts
 
 #EXTINF:0, Bollywood Classics 
 http://dream8k.pro:80/live/Tracy123/Tracy123/667671.ts
-#EXTINF:0, &Flix
-http://dream8k.pro:80/live/Tracy123/Tracy123/161825.ts
 #EXTINF:0, & Picture 
 http://livetvbox.live:8080/live/802121/802121/231.ts
 #EXTINF:0, SONY MAX
@@ -56,7 +53,7 @@ http://livetvbox.live:8080/live/802121/802121/151.ts
 #EXTINF:0, SONY MAX 2
 http://livetvbox.live:8080/live/802121/802121/973.ts
 #EXTINF:0, Star Gold 2
-http://dream8k.pro:80/live/Tracy123/Tracy123/161927.ts
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/4324.ts
 #EXTINF:0, Star Gold 
 http://livetvbox.live:8080/live/802121/802121/194.ts
 #EXTINF:0, Star Gold Select 
@@ -73,6 +70,8 @@ http://dream8k.pro:80/live/Tracy123/Tracy123/15222.ts
 http://dream8k.pro:80/live/Tracy123/Tracy123/8528.ts
 #EXTINF:0, TS HOLLYWOOD 
 http://livetvbox.live:8080/live/802121/802121/108876.ts
+#EXTINF:0, TS Adventure 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/135706.ts
 
 #EXTINF:0, CN
 http://livetvbox.live:8080/live/802121/802121/8.ts
