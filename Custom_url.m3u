@@ -1,109 +1,132 @@
 #EXTM3U
-#EXTINF:0, Colour Marathi 
-http://livetvbox.live:8080/live/802121/802121/5872.ts
-#EXTINF:0, Zee Marathi 
-http://livetvbox.live:8080/live/802121/802121/4066.ts
-#EXTINF:0, Sony Marathi 
-http://livetvbox.live:8080/live/802121/802121/5856.ts
-#EXTINF:0,Star Pravah 
-http://livetvbox.live:8080/live/802121/802121/5874.ts
-#EXTINF:0, Zee Yuva 
-http://livetvbox.live:8080/live/802121/802121/5866.ts
-#EXTINF:0, 9X Jakkas 
-http://livetvbox.live:8080/live/802121/802121/5858.ts
-#EXTINF:0, Sangeet Marathi 
-http://livetvbox.live:8080/live/802121/802121/5864.ts
-#EXTINF:0, Zee Talkies
+//Starshare 
+#EXTINF:-1, Colour Marathi 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/5872.ts
+#EXTINF:-1, Zee Marathi 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/4066.ts
+#EXTINF:-1, Sony Marathi 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/5856.ts
+#EXTINF:-1,Star Pravah 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/5874.ts
+#EXTINF:-1, Zee Yuva 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/5866.ts
+#EXTINF:-1, 9X Jakkas 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/5858.ts
+#EXTINF:-1, Sangeet Marathi 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/5864.ts
+#EXTINF:-1, Zee Talkies FHD
 http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/85695.ts
-#EXTINF:0, Pravah picture 
-http://livetvbox.live:8080/live/802121/802121/96364.ts
+#EXTINF:-1, Zee Talkies 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/5871.ts
+#EXTINF:-1, Pravah picture 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/96364.ts
+#EXTINF:-1, Pravah Picture UK
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/375320.ts
+#EXTINF:-1, TS Marathi Movie 1
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/371565.ts
+#EXTINF:-1, TS Marathi Movie 2
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/374552.ts
 
-#EXTINF:0, TV9 MARATHI 
-http://livetvbox.live:8080/802121/802121/5863
-#EXTINF:0, Zee 24Taas
-http://livetvbox.live:8080/802121/802121/5868
-#EXTINF:0, ABP MAJHA 
-http://livetvbox.live:8080/802121/802121/5859
-#EXTINF:0, IBN LOKMAT 
-http://livetvbox.live:8080/802121/802121/5862
-#EXTINF:0, Saam Tv
-http://livetvbox.live:8080/802121/802121/337784
-#EXTINF:0, NEWS NATION 
-http://livetvbox.live:8080/802121/802121/374570
+#EXTINF:-1, TV9 MARATHI 
+http://livetvbox.live:8080/rvdgdf7647564/bvchgfd235454/5863
+#EXTINF:-1, Zee 24Taas
+http://livetvbox.live:8080/rvdgdf7647564/bvchgfd235454/5868
+#EXTINF:-1, ABP MAJHA 
+http://livetvbox.live:8080/rvdgdf7647564/bvchgfd235454/5859
+#EXTINF:-1, IBN LOKMAT 
+http://livetvbox.live:8080/rvdgdf7647564/bvchgfd235454/5862
+#EXTINF:-1, Saam Tv
+http://livetvbox.live:8080/rvdgdf7647564/bvchgfd235454/337784
+#EXTINF:-1, NEWS NATION 
+http://livetvbox.live:8080/rvdgdf7647564/bvchgfd235454/374570
 
-#EXTINF:0, &TV
-http://dream8k.pro:80/live/Tracy123/Tracy123/161830.ts
-#EXTINF:0, Sony Sab
-http://dream8k.pro:80/live/Tracy123/Tracy123/161920.ts
-#EXTINF:0, Sony TV
-http://dream8k.pro:80/live/Tracy123/Tracy123/7935.ts
-#EXTINF:0, Zee TV
-http://dream8k.pro:80/live/Tracy123/Tracy123/161953.ts
-#EXTINF:0, Colour TV
-http://dream8k.pro:80/live/Tracy123/Tracy123/161849.ts
-#EXTINF:0, Star Utsav
-http://dream8k.pro:80/live/Tracy123/Tracy123/164428.ts
+#EXTINF:-1, &TV
+http://dream8k.pro:80/live/Ada/Ada/161830.ts
+#EXTINF:-1, Sony Sab
+http://dream8k.pro:80/live/Ada/Ada/161920.ts
+#EXTINF:-1, Sony TV
+http://dream8k.pro:80/live/Ada/Ada/7935.ts
+#EXTINF:-1, Zee TV
+http://dream8k.pro:80/live/Ada/Ada/161953.ts
+#EXTINF:-1, Colour TV
+http://dream8k.pro:80/live/Ada/Ada/161849.ts
+#EXTINF:-1, Star Utsav
+http://dream8k.pro:80/live/Ada/Ada/164428.ts
 
-#EXTINF:0, Bollywood Classics 
-http://dream8k.pro:80/live/Tracy123/Tracy123/667671.ts
-#EXTINF:0, & Picture 
-http://livetvbox.live:8080/live/802121/802121/231.ts
-#EXTINF:0, SONY MAX
-http://livetvbox.live:8080/live/802121/802121/151.ts
-#EXTINF:0, SONY MAX 2
-http://livetvbox.live:8080/live/802121/802121/973.ts
-#EXTINF:0, Star Gold 2
+#EXTINF:-1, Bollywood Classics 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/108874.ts
+#EXTINF:-1, & Picture 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/231.ts
+#EXTINF:-1, SONY MAX
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/151.ts
+#EXTINF:-1, SONY MAX 2
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/973.ts
+#EXTINF:-1, Star Gold 2
 http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/4324.ts
-#EXTINF:0, Star Gold 
-http://livetvbox.live:8080/live/802121/802121/194.ts
-#EXTINF:0, Star Gold Select 
-http://dream8k.pro:80/live/Tracy123/Tracy123/161929.ts
-#EXTINF:0, Star Gold Romance 
-http://livetvbox.live:8080/live/802121/802121/972.ts
-#EXTINF:0, Zee Cinema HD
-http://livetvbox.live:8080/802121/802121/230
-#EXTINF:0, Zee Cinema SD
-http://dream8k.pro:80/live/Tracy123/Tracy123/163708.ts
-#EXTINF:0, Zee Cinema UK 
-http://dream8k.pro:80/live/Tracy123/Tracy123/15222.ts
-#EXTINF:0, Star Utsav Movies
-http://dream8k.pro:80/live/Tracy123/Tracy123/8528.ts
-#EXTINF:0, TS HOLLYWOOD 
-http://livetvbox.live:8080/live/802121/802121/108876.ts
-#EXTINF:0, TS Adventure 
+#EXTINF:-1, Star Gold HD
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/194.ts
+#EXTINF:-1, Star Gold
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/375332.ts
+#EXTINF:-1, Star Gold Select 
+http://dream8k.pro:80/live/Ada/Ada/161929.ts
+#EXTINF:-1, Star Gold Romance 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/972.ts
+#EXTINF:-1, Satr Gold Romance UK
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/375331.ts
+#EXTINF:-1, Zee Cinema HD
+http://livetvbox.live:8080/rvdgdf7647564/bvchgfd235454/230
+#EXTINF:-1, Zee Cinema SD
+http://dream8k.pro:80/live/Ada/Ada/163708.ts
+#EXTINF:-1, Zee Cinema UK 
+http://dream8k.pro:80/live/Ada/Ada/15222.ts
+#EXTINF:-1, Star Utsav Movies
+http://dream8k.pro:80/live/Ada/Ada/8528.ts
+#EXTINF:-1, TS HOLLYWOOD 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/108876.ts
+#EXTINF:-1, TS Adventure 
 http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/135706.ts
+#EXTINF:0, Movie 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/135679.ts
+#EXTINF:0, Movie 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/135680.ts
+#EXTINF:0, Movie 3
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/135681.ts
+#EXTINF:0, Movie 4
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/135682.ts
+#EXTINF:0, Movie 5
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/135683.ts
 
-#EXTINF:0, CN
-http://livetvbox.live:8080/live/802121/802121/8.ts
-#EXTINF:0, Disney 
-http://livetvbox.live:8080/live/802121/802121/19741.ts
-#EXTINF:0, Disney HD
-http://livetvbox.live:8080/live/802121/802121/19741.ts
-#EXTINF:0, Doraemon 24*7
-http://livetvbox.live:8080/live/802121/802121/147746.ts
-#EXTINF:0, Hungama TV
-http://livetvbox.live:8080/live/802121/802121/18456.ts
-#EXTINF:0, Pogo hindi
-http://livetvbox.live:8080/live/802121/802121/1918.ts
-#EXTINF:0, Nick Hindi
-http://dream8k.pro:80/live/Tracy123/Tracy123/161896.ts
+#EXTINF:-1, CN
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/8.ts
+#EXTINF:-1 tvg-audio-track="hin", Disney 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/19741.m3u8
+#EXTINF:-1, Disney HD
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/19741.ts
+#EXTINF:-1, Doraemon 24*7
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/147746.ts
+#EXTINF:-1, Hungama TV
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/18456.ts
+#EXTINF:-1, Pogo hindi
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/1918.ts
+#EXTINF:-1, Nick Hindi
+http://dream8k.pro:80/live/Ada/Ada/161896.ts
 
-#EXTINF:0,Animal Planet 
-http://livetvbox.live:8080/live/802121/802121/182.ts
-#EXTINF:0, Discovery 
-http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/5250.ts
-#EXTINF:0, Discovery Science 
-http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/4745.ts
-#EXTINF:0, History TV18 
-http://livetvbox.live:8080/live/802121/802121/5252.ts
-#EXTINF:0, Net Geo 
-http://livetvbox.live:8080/live/802121/802121/7342.ts
-#EXTINF:0,Net Geo wild 
-http://livetvbox.live:8080/live/802121/802121/7344.ts
-#EXTINF:0, BBC EARTH 
-http://livetvbox.live:8080/live/802121/802121/7721.ts
+#EXTINF:-1,Animal Planet 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/182.ts
+#EXTINF:-1, Discovery 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/5250.m3u8
+#EXTINF:-1, Discovery Science 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/4745.m3u8
+#EXTINF:-1, History TV18 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/5252.ts
+#EXTINF:-1, Net Geo 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/7342.ts
+#EXTINF:-1,Net Geo wild 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/7344.ts
+#EXTINF:-1, BBC EARTH 
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/7721.ts
 
-
+//TVCloud
 #EXTINF:1, Colour Marathi 
 http://tv.cloudcdn.me:80/live.ts?channelId=28126&uid=3007&deviceMac=00:1A:79:1D:2A:C2
 #EXTINF:0, Zee Marathi 
@@ -213,6 +236,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=177&uid=3007&deviceMac=00:1A:79:1D:2A
 #EXTINF:0, BBC EARTH 
 http://dream8k.pro:80/live/Tracy123/Tracy123/161914.ts
 
+//Dream8K
 #EXTINF:1, Colour Marathi 
 http://dream8k.pro/Ada/Ada/14155
 #EXTINF:0, Zee Marathi 
