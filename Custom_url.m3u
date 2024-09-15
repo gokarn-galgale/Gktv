@@ -95,6 +95,17 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/135681.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/135682.ts
 #EXTINF:0, Movie 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/135683.ts
+#EXTINF:0, Movie 6
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/135688.ts
+#EXTINF:0, Movie 7
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/135684.ts
+#EXTINF:0, Movie 8
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/135685.ts
+#EXTINF:0, Movie 9
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/135686.ts
+#EXTINF:0, Movie 10
+http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/135687.ts
+
 
 #EXTINF:-1, CN
 http://livetvbox.live:8080/live/rvdgdf7647564/bvchgfd235454/8.ts
