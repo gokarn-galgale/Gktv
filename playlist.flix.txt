@@ -1,0 +1,132 @@
+﻿#EXTM3U
+#EXTINF:-1, Colour Marathi 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5872.m3u8
+#EXTINF:-1, Zee Marathi 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/4066.m3u8
+#EXTINF:-1, Sony Marathi 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5856.m3u8
+#EXTINF:0,Star Pravah 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5874.m3u8
+#EXTINF:-1, Zee Yuva 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5866.m3u8
+#EXTINF:-1, 9X Jakkas 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5858.m3u8
+#EXTINF:-1, Sangeet Marathi 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5864.m3u8
+#EXTINF:-1, Zee Talkies FHD
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5871.m3u8
+#EXTINF:-1,Zee Talkies 
+http://filex.tv:8080/live/aftab123/004090/478765.m3u8
+#EXTINF:-1, Pravah picture 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/96364.m3u8
+#EXTINF:-1, Pravah Picture UK
+http://livetvbox.live:8080/live/rajnikant/rajnikant/375320.m3u8
+#EXTINF:-1, TS Marathi Movie 1
+http://livetvbox.live:8080/live/rajnikant/rajnikant/371565.m3u8
+#EXTINF:-1, TS Marathi Movie 2
+http://livetvbox.live:8080/live/rajnikant/rajnikant/374552.m3u8
+
+#EXTINF:-1, TV9 MARATHI 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5863.m3u8
+#EXTINF:-1, Zee 24Taas
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5868.m3u8
+#EXTINF:-1, ABP MAJHA 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5859.m3u8
+#EXTINF:-1, IBN LOKMAT 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5862.m3u8
+#EXTINF:-1, Saam Tv
+http://livetvbox.live:8080/live/rajnikant/rajnikant/337784.m3u8
+#EXTINF:-1, NEWS NATION 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/374570.m3u8
+
+#EXTINF:-1, Bollywood Classics 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/108874.m3u8
+#EXTINF:-1, & Picture 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/231.m3u8
+#EXTINF:-1, SONY MAX
+http://livetvbox.live:8080/live/rajnikant/rajnikant/151.m3u8
+#EXTINF:-1, SONY MAX UK
+http://filex.tv:8080/live/aftab123/004090/276652.m3u8
+#EXTINF:-1, SONY MAX 2
+http://livetvbox.live:8080/live/rajnikant/rajnikant/973.m3u8
+#EXTINF:-1, Utsav Gold
+http://filex.tv:8080/live/aftab123/004090/276645.m3u8
+#EXTINF:-1, Star Gold 2
+https://livetvbox.live:443/live/rajnikant/rajnikant/157081.m3u8
+#EXTINF:-1,Star Gold 2 uk
+https://livetvbox.live:443/live/rajnikant/rajnikant/4324.m3u8
+#EXTINF:-1, Star Gold uk
+http://livetvbox.live:8080/live/rajnikant/rajnikant/375332.m3u8
+#EXTINF:-1, Star Gold HD
+http://livetvbox.live:8080/live/rajnikant/rajnikant/194.m3u8
+#EXTINF:-1, Star Gold Select 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/210.m3u8
+#EXTINF:-1, Star Gold Romance 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/972.m3u8
+#EXTINF:-1, Satr Gold Romance UK
+http://livetvbox.live:8080/live/rajnikant/rajnikant/375331.m3u8
+#EXTINF:-1, Zee Cinema HD
+http://livetvbox.live:8080/live/rajnikant/rajnikant/151274.m3u8
+#EXTINF:-1, Zee Cinema SD
+http://livetvbox.live:8080/live/rajnikant/rajnikant/2439.m3u8
+#EXTINF:-1, Zee Cinema UK 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/154514.m3u8
+#EXTINF:-1, Star Utsav Movies
+http://dream8k.pro:80/live/Tracy123/Tracy123/8528.m3u8
+#EXTINF:-1, TS HOLLYWOOD 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/108876.m3u8
+#EXTINF:-1, TS Adventure 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/135706.m3u8
+#EXTINF:-1, Movie 1
+http://livetvbox.live:8080/live/rajnikant/rajnikant/135679.m3u8
+#EXTINF:-1, Movie 2
+http://livetvbox.live:8080/live/rajnikant/rajnikant/135680.m3u8
+#EXTINF:-1, Movie 3
+http://livetvbox.live:8080/live/rajnikant/rajnikant/135681.m3u8
+#EXTINF:-1, Movie 4
+http://livetvbox.live:8080/live/rajnikant/rajnikant/135682.m3u8
+#EXTINF:-1, Movie 5
+http://livetvbox.live:8080/live/rajnikant/rajnikant/135683.m3u8
+#EXTINF:-1, Movie 6
+http://livetvbox.live:8080/live/rajnikant/rajnikant/135688.m3u8
+#EXTINF:-1, Movie 7
+http://livetvbox.live:8080/live/rajnikant/rajnikant/135684.m3u8
+#EXTINF:-1, Movie 8
+http://livetvbox.live:8080/live/rajnikant/rajnikant/135685.m3u8
+#EXTINF:-1, Movie 9
+http://livetvbox.live:8080/live/rajnikant/rajnikant/135686.m3u8
+#EXTINF:-1, Movie 10
+http://livetvbox.live:8080/live/rajnikant/rajnikant/135687.m3u8
+
+#EXTINF:-1, CN
+http://livetvbox.live:8080/live/rajnikant/rajnikant/8.m3u8
+#EXTINF:-1, Disney 
+http://filex.tv:8080/live/aftab123/004090/246763.m3u8
+#EXTINF:-1, Disney HD
+http://livetvbox.live:8080/live/rajnikant/rajnikant/19741.ts
+#EXTINF:-1, Doraemon 24*7
+http://livetvbox.live:8080/live/rajnikant/rajnikant/147746.m3u8
+#EXTINF:-1, Hungama TV
+http://livetvbox.live:8080/live/rajnikant/rajnikant/18456.m3u8
+#EXTINF:-1, Super hungama 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/66162.m3u8
+#EXTINF:-1, Pogo hindi
+http://livetvbox.live:8080/live/rajnikant/rajnikant/1918.m3u8
+#EXTINF:-1, Sonic Nick 
+https://livetvbox.live:443/live/rajnikant/rajnikant/207.m3u8
+
+#EXTINF:0,Animal Planet 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/182.m3u8
+#EXTINF:-1, Discovery 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5250.m3u8
+#EXTINF:-1, Discovery Science 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/4745.m3u8
+#EXTINF:-1, History TV18 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/5252.m3u8
+#EXTINF:-1, Net Geo 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/7342.m3u8
+#EXTINF:0,Net Geo wild 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/7344.m3u8
+#EXTINF:-1, BBC EARTH 
+http://livetvbox.live:8080/live/rajnikant/rajnikant/7721.m3u8
+
