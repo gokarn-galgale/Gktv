@@ -505,6 +505,8 @@ http://cool365.xyz:80/live/4160189881/DB4ACD54/401605046.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="South Dubbed " tvg-logo="" group-title="Movies",South Dubbed 
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-id="Sony Max 1" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/40_272.png" group-title="­Movies",Sony Max 1 SundirectGo
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/96133332/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies",&Prive HD
 http://localhost:8900/zee5/index.php?id=0-9-9z5543514
