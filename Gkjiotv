@@ -1550,3 +1550,669 @@ http://localhost:8900/zee5/index.php?id=0-9-zeerajasthannews
 http://localhost:8900/zee5/index.php?id=0-9-zeemadhyapradeshchat
 #EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png" group-title="News",Zee News Uttar Pradesh Uttrakhand
 http://localhost:8900/zee5/index.php?id=0-9-channel_265145625
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="INDIAN | KIDS Cartoon",24/7 MOTU PATLU 01
+https://joker-verse.vercel.app/opplex/live/307079.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="INDIAN | KIDS Cartoon",24/7 MOTU PATLU 02
+https://joker-verse.vercel.app/opplex/live/311373.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/352/597/png-transparent-shiva-nickelodeon-sonic-cartoon-television-show-shiva-sports-equipment-fictional-character-pakdam-pakdai-thumbnail.png" group-title="INDIAN | KIDS Cartoon",24/7 SHIVA
+https://joker-verse.vercel.app/opplex/live/342074.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 CHUCHU TV
+https://joker-verse.vercel.app/opplex/live/340807.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Baalveer_Returns_Title_Card.jpg/220px-Baalveer_Returns_Title_Card.jpg" group-title="INDIAN | KIDS Cartoon",24/7 Baal Veer
+https://joker-verse.vercel.app/opplex/live/340809.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFlODk2ZmEtMWE5MC00Nzg5LWE3ODMtMzViYTRhNjdjMjgzXkEyXkFqcGdeQXVyNjEyNjM1MjY@._V1_.jpg" group-title="INDIAN | KIDS Cartoon",24/7 Chacha Bhatija
+https://joker-verse.vercel.app/opplex/live/311774.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/WowKidsAction.png" group-title="INDIAN | KIDS Cartoon",24/7 Wow Kids Action
+https://joker-verse.vercel.app/opplex/live/314753.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/VirTheRobotBoy.png" group-title="INDIAN | KIDS Cartoon",24/7 Vir The Robot Boy
+https://joker-verse.vercel.app/opplex/live/314754.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | DORAEMON
+https://joker-verse.vercel.app/opplex/live/388459.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: PINK PANTHER 24/7
+https://joker-verse.vercel.app/opplex/live/301503.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: CHU CHU TV 24/7
+https://joker-verse.vercel.app/opplex/live/301502.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: Sonic 24/7
+https://joker-verse.vercel.app/opplex/live/301500.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: MR BEAN (CARTOON) 24/7
+https://joker-verse.vercel.app/opplex/live/301501.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: CoComelon TV 24/7
+https://joker-verse.vercel.app/opplex/live/301499.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: All Hail King Julien_ Exiled
+https://joker-verse.vercel.app/opplex/live/301504.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Rick And Morty
+https://joker-verse.vercel.app/opplex/live/301505.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Masha and the Bear
+https://joker-verse.vercel.app/opplex/live/301506.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Little Baby Bum
+https://joker-verse.vercel.app/opplex/live/301507.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: The Boss Baby_ Back in Business
+https://joker-verse.vercel.app/opplex/live/301508.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Peppa Pig
+https://joker-verse.vercel.app/opplex/live/301509.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Blippi
+https://joker-verse.vercel.app/opplex/live/301510.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Kids: Gabby_s Dollhouse
+https://joker-verse.vercel.app/opplex/live/301511.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",Oggy and the Cockroaches Hindi
+https://joker-verse.vercel.app/opplex/live/308282.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chhota_Bheem.jpg" group-title="INDIAN | KIDS Cartoon",24/7 Chhota Bheem
+https://joker-verse.vercel.app/opplex/live/315401.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INDIAN | KIDS Cartoon",24/7 Tom & Jerry
+https://joker-verse.vercel.app/opplex/live/329247.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo.png" group-title="INDIAN | KIDS Cartoon",24/7 Scooby-Doo
+https://joker-verse.vercel.app/opplex/live/329248.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Booba
+https://joker-verse.vercel.app/opplex/live/340803.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 KIDS SONGS HINDI
+https://joker-verse.vercel.app/opplex/live/340802.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 BabyBus | Nursery Rhymes
+https://joker-verse.vercel.app/opplex/live/340804.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOV HINDI
+https://joker-verse.vercel.app/opplex/live/362998.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOVIES
+https://joker-verse.vercel.app/opplex/live/362999.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOVIES ENG 01
+https://joker-verse.vercel.app/opplex/live/363000.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOVIES ENG 02
+https://joker-verse.vercel.app/opplex/live/363001.m3u8?uid=6202584498&pass=67db5d39
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Hindi Dubbed",CineMania Hindi Dubbed 1 FHD
+https://joker-verse.vercel.app/opplex/live/389233.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Hindi Dubbed",CineMania Hindi Dubbed 2 FHD
+https://joker-verse.vercel.app/opplex/live/389234.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Hindi Dubbed",CineMania Hindi Dubbed 3 FHD
+https://joker-verse.vercel.app/opplex/live/389235.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Hindi Dubbed",CineMania Hindi Dubbed 4 FHD
+https://joker-verse.vercel.app/opplex/live/389236.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Hindi Dubbed",CineMania Hindi Dubbed 5 FHD
+https://joker-verse.vercel.app/opplex/live/389237.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Hindi Dubbed",CineMania Goldmines Dubbed 1 FHD
+https://joker-verse.vercel.app/opplex/live/389238.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Hindi Dubbed",CineMania Goldmines Dubbed 2 FHD
+https://joker-verse.vercel.app/opplex/live/389239.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 1 FHD
+https://joker-verse.vercel.app/opplex/live/389161.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 2 FHD
+https://joker-verse.vercel.app/opplex/live/389162.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 3 FHD
+https://joker-verse.vercel.app/opplex/live/389163.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 4 FHD
+https://joker-verse.vercel.app/opplex/live/389164.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 5 FHD
+https://joker-verse.vercel.app/opplex/live/389165.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 6 FHD
+https://joker-verse.vercel.app/opplex/live/389166.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 7 FHD
+https://joker-verse.vercel.app/opplex/live/389167.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 8 FHD
+https://joker-verse.vercel.app/opplex/live/389168.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 9 FHD
+https://joker-verse.vercel.app/opplex/live/389169.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 10 FHD
+https://joker-verse.vercel.app/opplex/live/389170.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 11 FHD
+https://joker-verse.vercel.app/opplex/live/389171.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Animation Hindi",CineMania Animation Hindi 12 FHD
+https://joker-verse.vercel.app/opplex/live/389172.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood War n History",CineMania Bollywood War n History 1 FHD
+https://joker-verse.vercel.app/opplex/live/389156.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood War n History",CineMania Bollywood War n History 2 FHD
+https://joker-verse.vercel.app/opplex/live/389157.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood War n History",CineMania Bollywood War n History 3 FHD
+https://joker-verse.vercel.app/opplex/live/389158.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood War n History",CineMania Bollywood War n History 4 FHD
+https://joker-verse.vercel.app/opplex/live/389159.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood War n History",CineMania Bollywood War n History 5 FHD
+https://joker-verse.vercel.app/opplex/live/389160.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Romance",CineMania Bollywood Romance 1 FHD
+https://joker-verse.vercel.app/opplex/live/389146.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Romance",CineMania Bollywood Romance 2 FHD
+https://joker-verse.vercel.app/opplex/live/389147.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Romance",CineMania Bollywood Romance 3 FHD
+https://joker-verse.vercel.app/opplex/live/389148.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Romance",CineMania Bollywood Romance 4 FHD
+https://joker-verse.vercel.app/opplex/live/389149.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Romance",CineMania Bollywood Romance 5 FHD
+https://joker-verse.vercel.app/opplex/live/389150.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Romance",CineMania Bollywood Romance 6 FHD
+https://joker-verse.vercel.app/opplex/live/389151.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Romance",CineMania Bollywood Romance 7 FHD
+https://joker-verse.vercel.app/opplex/live/389152.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Romance",CineMania Bollywood Romance 8 FHD
+https://joker-verse.vercel.app/opplex/live/389153.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Romance",CineMania Bollywood Romance 9 FHD
+https://joker-verse.vercel.app/opplex/live/389154.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Romance",CineMania Bollywood Romance 10 FHD
+https://joker-verse.vercel.app/opplex/live/389155.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Horror",CineMania Bollywood Horror 1 FHD
+https://joker-verse.vercel.app/opplex/live/389140.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Horror",CineMania Bollywood Horror 2 FHD
+https://joker-verse.vercel.app/opplex/live/389141.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Horror",CineMania Bollywood Horror 3 FHD
+https://joker-verse.vercel.app/opplex/live/389142.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Horror",CineMania Bollywood Horror 4 FHD
+https://joker-verse.vercel.app/opplex/live/389143.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Horror",CineMania Bollywood Horror 5 FHD
+https://joker-verse.vercel.app/opplex/live/389144.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Horror",CineMania Bollywood Horror 6 FHD
+https://joker-verse.vercel.app/opplex/live/389145.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Drama",CineMania Bollywood Drama 1 FHD
+https://joker-verse.vercel.app/opplex/live/389130.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Drama",CineMania Bollywood Drama 2 FHD
+https://joker-verse.vercel.app/opplex/live/389131.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Drama",CineMania Bollywood Drama 3 FHD
+https://joker-verse.vercel.app/opplex/live/389132.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Drama",CineMania Bollywood Drama 4 FHD
+https://joker-verse.vercel.app/opplex/live/389133.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Drama",CineMania Bollywood Drama 5 FHD
+https://joker-verse.vercel.app/opplex/live/389134.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Drama",CineMania Bollywood Drama 6 FHD
+https://joker-verse.vercel.app/opplex/live/389135.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Drama",CineMania Bollywood Drama 7 FHD
+https://joker-verse.vercel.app/opplex/live/389136.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Drama",CineMania Bollywood Drama 8 FHD
+https://joker-verse.vercel.app/opplex/live/389137.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Drama",CineMania Bollywood Drama 9 FHD
+https://joker-verse.vercel.app/opplex/live/389138.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Drama",CineMania Bollywood Drama 10 FHD
+https://joker-verse.vercel.app/opplex/live/389139.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Crime",CineMania Bollywood Crime 1 FHD
+https://joker-verse.vercel.app/opplex/live/389120.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Crime",CineMania Bollywood Crime 2 FHD
+https://joker-verse.vercel.app/opplex/live/389121.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Crime",CineMania Bollywood Crime 3 FHD
+https://joker-verse.vercel.app/opplex/live/389122.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Crime",CineMania Bollywood Crime 4 FHD
+https://joker-verse.vercel.app/opplex/live/389123.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Crime",CineMania Bollywood Crime 5 FHD
+https://joker-verse.vercel.app/opplex/live/389124.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Crime",CineMania Bollywood Crime 6 FHD
+https://joker-verse.vercel.app/opplex/live/389125.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Crime",CineMania Bollywood Crime 7 FHD
+https://joker-verse.vercel.app/opplex/live/389126.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Crime",CineMania Bollywood Crime 8 FHD
+https://joker-verse.vercel.app/opplex/live/389127.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Crime",CineMania Bollywood Crime 9 FHD
+https://joker-verse.vercel.app/opplex/live/389128.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Crime",CineMania Bollywood Crime 10 FHD
+https://joker-verse.vercel.app/opplex/live/389129.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 1 FHD
+https://joker-verse.vercel.app/opplex/live/389110.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 2 FHD
+https://joker-verse.vercel.app/opplex/live/389111.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 3 FHD
+https://joker-verse.vercel.app/opplex/live/389112.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 4 FHD
+https://joker-verse.vercel.app/opplex/live/389113.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 5 FHD
+https://joker-verse.vercel.app/opplex/live/389114.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 6 FHD
+https://joker-verse.vercel.app/opplex/live/389115.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 7 FHD
+https://joker-verse.vercel.app/opplex/live/389116.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 8 FHD
+https://joker-verse.vercel.app/opplex/live/389117.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 9 FHD
+https://joker-verse.vercel.app/opplex/live/389118.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Comedy",CineMania Bollywood Comedy 10 FHD
+https://joker-verse.vercel.app/opplex/live/389119.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Action",CineMania Bollywood Action 1 FHD
+https://joker-verse.vercel.app/opplex/live/389100.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Action",CineMania Bollywood Action 2 FHD
+https://joker-verse.vercel.app/opplex/live/389101.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Action",CineMania Bollywood Action 3 FHD
+https://joker-verse.vercel.app/opplex/live/389102.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Action",CineMania Bollywood Action 4 FHD
+https://joker-verse.vercel.app/opplex/live/389103.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Action",CineMania Bollywood Action 5 FHD
+https://joker-verse.vercel.app/opplex/live/389104.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Action",CineMania Bollywood Action 6 FHD
+https://joker-verse.vercel.app/opplex/live/389105.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Action",CineMania Bollywood Action 7 FHD
+https://joker-verse.vercel.app/opplex/live/389106.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Action",CineMania Bollywood Action 8 FHD
+https://joker-verse.vercel.app/opplex/live/389107.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Action",CineMania Bollywood Action 9 FHD
+https://joker-verse.vercel.app/opplex/live/389108.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CineMania Bollywood Action",CineMania Bollywood Action 10 FHD
+https://joker-verse.vercel.app/opplex/live/389109.m3u8?uid=6202584498&pass=67db5d39
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 1 FHD
+https://joker-verse.vercel.app/opplex/live/389050.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 2 FHD
+https://joker-verse.vercel.app/opplex/live/389051.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 3 FHD
+https://joker-verse.vercel.app/opplex/live/389052.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 4 FHD
+https://joker-verse.vercel.app/opplex/live/389053.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 5 FHD
+https://joker-verse.vercel.app/opplex/live/389054.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 6 FHD
+https://joker-verse.vercel.app/opplex/live/389055.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 7 FHD
+https://joker-verse.vercel.app/opplex/live/389056.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 8 FHD
+https://joker-verse.vercel.app/opplex/live/389057.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 9 FHD
+https://joker-verse.vercel.app/opplex/live/389058.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 10 FHD
+https://joker-verse.vercel.app/opplex/live/389059.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 11 FHD
+https://joker-verse.vercel.app/opplex/live/389060.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 12 FHD
+https://joker-verse.vercel.app/opplex/live/389061.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 13 FHD
+https://joker-verse.vercel.app/opplex/live/389062.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 14 FHD
+https://joker-verse.vercel.app/opplex/live/389063.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 15 FHD
+https://joker-verse.vercel.app/opplex/live/389064.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 16 FHD
+https://joker-verse.vercel.app/opplex/live/389065.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 17 FHD
+https://joker-verse.vercel.app/opplex/live/389066.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 18 FHD
+https://joker-verse.vercel.app/opplex/live/389067.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 19 FHD
+https://joker-verse.vercel.app/opplex/live/389068.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 20 FHD
+https://joker-verse.vercel.app/opplex/live/389069.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 21 FHD
+https://joker-verse.vercel.app/opplex/live/389070.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 22 FHD
+https://joker-verse.vercel.app/opplex/live/389071.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 23 FHD
+https://joker-verse.vercel.app/opplex/live/389072.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 24 FHD
+https://joker-verse.vercel.app/opplex/live/389073.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 25 FHD
+https://joker-verse.vercel.app/opplex/live/389074.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 26 FHD
+https://joker-verse.vercel.app/opplex/live/389075.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 27 FHD
+https://joker-verse.vercel.app/opplex/live/389076.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 28 FHD
+https://joker-verse.vercel.app/opplex/live/389077.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 29 FHD
+https://joker-verse.vercel.app/opplex/live/389078.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 30 FHD
+https://joker-verse.vercel.app/opplex/live/389079.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 31 FHD
+https://joker-verse.vercel.app/opplex/live/389080.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 32 FHD
+https://joker-verse.vercel.app/opplex/live/389081.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 33 FHD
+https://joker-verse.vercel.app/opplex/live/389082.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 34 FHD
+https://joker-verse.vercel.app/opplex/live/389083.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 35 FHD
+https://joker-verse.vercel.app/opplex/live/389084.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 36 FHD
+https://joker-verse.vercel.app/opplex/live/389085.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 37 FHD
+https://joker-verse.vercel.app/opplex/live/389086.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 38 FHD
+https://joker-verse.vercel.app/opplex/live/389087.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 39 FHD
+https://joker-verse.vercel.app/opplex/live/389088.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 40 FHD
+https://joker-verse.vercel.app/opplex/live/389089.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 41 FHD
+https://joker-verse.vercel.app/opplex/live/389090.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 42 FHD
+https://joker-verse.vercel.app/opplex/live/389091.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 43 FHD
+https://joker-verse.vercel.app/opplex/live/389092.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 44 FHD
+https://joker-verse.vercel.app/opplex/live/389093.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 45 FHD
+https://joker-verse.vercel.app/opplex/live/389094.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 46 FHD
+https://joker-verse.vercel.app/opplex/live/389095.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 47 FHD
+https://joker-verse.vercel.app/opplex/live/389096.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 48 FHD
+https://joker-verse.vercel.app/opplex/live/389097.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 49 FHD
+https://joker-verse.vercel.app/opplex/live/389098.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania_bollywood.jpg" group-title="CineMania Bollywood Cinema",CineMania Bollywood 50 FHD
+https://joker-verse.vercel.app/opplex/live/389099.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania4K_gold.jpg" group-title="CineMania 4K",CineMania Gold 4K
+https://joker-verse.vercel.app/opplex/live/389027.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania4K_bollywood.jpg" group-title="CineMania 4K",CineMania Bollywood 4K
+https://joker-verse.vercel.app/opplex/live/389030.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania4K_punjabi.jpg" group-title="CineMania 4K",CineMania Punjabi 4K
+https://joker-verse.vercel.app/opplex/live/389031.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania4K_bollywood.jpg" group-title="CineMania 4K",CineMania Netfilx FHD
+https://joker-verse.vercel.app/opplex/live/389028.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania4K_hollywood.jpg" group-title="CineMania 4K",CineMania Hollywood 4K
+https://joker-verse.vercel.app/opplex/live/389029.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania4K_telugu.jpg" group-title="CineMania 4K",CineMania Telugu 4K
+https://joker-verse.vercel.app/opplex/live/389033.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/CineMania4K_tamil.jpg" group-title="CineMania 4K",CineMania Tamil 4K
+https://joker-verse.vercel.app/opplex/live/389032.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" group-title="24/7 NETFLIX SERIES",Netflix Series 1
+https://joker-verse.vercel.app/opplex/live/381992.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" group-title="24/7 NETFLIX SERIES",Netflix Series 2
+https://joker-verse.vercel.app/opplex/live/381993.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" group-title="24/7 NETFLIX SERIES",Netflix Series 3
+https://joker-verse.vercel.app/opplex/live/381994.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" group-title="24/7 NETFLIX SERIES",Netflix Series 4
+https://joker-verse.vercel.app/opplex/live/381995.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" group-title="24/7 NETFLIX SERIES",Netflix Series 5
+https://joker-verse.vercel.app/opplex/live/381996.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" group-title="24/7 NETFLIX SERIES",Netflix Series 6
+https://joker-verse.vercel.app/opplex/live/381997.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" group-title="24/7 NETFLIX SERIES",Netflix Series 7
+https://joker-verse.vercel.app/opplex/live/381998.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" group-title="24/7 NETFLIX SERIES",Netflix Series 8
+https://joker-verse.vercel.app/opplex/live/381999.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" group-title="24/7 NETFLIX SERIES",Netflix Series 9
+https://joker-verse.vercel.app/opplex/live/382000.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",46 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251577.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",47 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251578.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",48 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251579.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",49 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251580.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",50 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251581.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",51 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251582.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",52 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251583.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",53 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251584.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",54 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251585.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",55 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251586.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",56 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251587.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",57 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251588.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",58 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251589.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",59 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251590.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",60 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251591.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",61 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/362976.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",62 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/362977.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",63 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/362978.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",64 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/362979.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",65 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/362980.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",66 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/362981.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",67 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/362982.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",01 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250346.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",02 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250347.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",03 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250348.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",04 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250349.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",05 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250350.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",06 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250351.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",07 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250352.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",08 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250353.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",09 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250354.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",10 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250355.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",11 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250356.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",12 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250357.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",13 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250358.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",14 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/250359.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",15 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251340.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",16 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251341.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",17 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251342.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",18 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251343.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",19 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251344.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",20 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251345.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",21 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251346.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",22 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251347.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",23 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251348.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",24 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251349.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",25 ***
+https://joker-verse.vercel.app/opplex/live/251350.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",26 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251351.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",27 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251352.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",28 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251353.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",29 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251354.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",30 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251561.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",31 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251562.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",32 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251563.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",33 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251564.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",34 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251565.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",35 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251566.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",36 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251567.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",37 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251568.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",38 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251569.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",39 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251570.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",40 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251571.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",41 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251572.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",42 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251573.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",43 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251574.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",44 BOLLYWOOD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/251575.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",45 ***
+https://joker-verse.vercel.app/opplex/live/251576.m3u8?uid=6202584498&pass=67db5d39
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",01 BLOCKBUSTER
+https://joker-verse.vercel.app/opplex/live/341039.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",02 BLOCKBUSTER
+https://joker-verse.vercel.app/opplex/live/341040.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",03 BLOCKBUSTER
+https://joker-verse.vercel.app/opplex/live/341041.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",04 BLOCKBUSTER COMEDY
+https://joker-verse.vercel.app/opplex/live/341042.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",05 BLOCKBUSTER
+https://joker-verse.vercel.app/opplex/live/341043.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",06 BLOCKBUSTER CLASSIC
+https://joker-verse.vercel.app/opplex/live/341329.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",07 BLOCKBUSTER
+https://joker-verse.vercel.app/opplex/live/362983.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",08 BLOCKBUSTER
+https://joker-verse.vercel.app/opplex/live/362984.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",09 BLOCKBUSTER
+https://joker-verse.vercel.app/opplex/live/362985.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD OLD MOVIES",01 BOLLYWOOD OLD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/341326.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD OLD MOVIES",02 BOLLYWOOD OLD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/341327.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD OLD MOVIES",03 BOLLYWOOD OLD MOVIES 24/7
+https://joker-verse.vercel.app/opplex/live/341328.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",01 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/263421.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",02 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268020.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",03 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268021.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",04 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268022.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",05 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268023.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",06 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268024.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",07 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268025.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",08 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268026.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",09 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268027.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",10 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268028.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",11 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268029.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",12 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268030.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",13 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268031.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",14 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268032.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",15 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268033.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",16 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268034.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",17 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268035.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",18 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268036.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",19 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268037.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",20 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268038.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",21 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268039.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",22 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268040.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",23 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268041.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",24 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268042.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",25 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268043.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",26 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268044.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",27 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268045.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",28 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268046.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",29 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268047.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",30 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268048.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",31 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268049.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",32 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268050.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",33 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268051.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",34 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268052.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",35 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268053.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",36 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268054.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",37 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268055.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",38 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268056.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",39 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/268057.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",40 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/362990.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",41 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/362991.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",42 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/362992.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",43 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/362993.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",44 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/362994.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",45 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/362995.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",46 HOLLYWOOD HINDI DUBBED 24/7
+https://joker-verse.vercel.app/opplex/live/362996.m3u8?uid=6202584498&pass=67db5d39
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 01
+https://joker-verse.vercel.app/opplex/live/268058.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 02
+https://joker-verse.vercel.app/opplex/live/268065.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 03
+https://joker-verse.vercel.app/opplex/live/270488.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 04
+https://joker-verse.vercel.app/opplex/live/270489.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 05
+https://joker-verse.vercel.app/opplex/live/270490.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 06
+https://joker-verse.vercel.app/opplex/live/270491.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 07
+https://joker-verse.vercel.app/opplex/live/270492.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 08
+https://joker-verse.vercel.app/opplex/live/270493.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 09
+https://joker-verse.vercel.app/opplex/live/270494.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 10
+https://joker-verse.vercel.app/opplex/live/270495.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 11
+https://joker-verse.vercel.app/opplex/live/270496.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 12
+https://joker-verse.vercel.app/opplex/live/270497.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 13
+https://joker-verse.vercel.app/opplex/live/270498.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 14
+https://joker-verse.vercel.app/opplex/live/270499.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 15
+https://joker-verse.vercel.app/opplex/live/270500.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 16
+https://joker-verse.vercel.app/opplex/live/270501.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 17
+https://joker-verse.vercel.app/opplex/live/270502.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 18
+https://joker-verse.vercel.app/opplex/live/362841.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 19
+https://joker-verse.vercel.app/opplex/live/362842.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 20
+https://joker-verse.vercel.app/opplex/live/362843.m3u8?uid=6202584498&pass=67db5d39
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 21
+https://joker-verse.vercel.app/opplex/live/362844.m3u8?uid=6202584498&pass=67db5d39
+
+
+
