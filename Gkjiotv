@@ -299,28 +299,47 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/output/index.mpd?__h
 #EXTHTTP:{"cookie":"__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/output/index.mpd?__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea&xxx=%7Ccookie=__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea
 
-
-#EXTINF:-1 tvg-id="1332" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="ts287" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Animal Planet HD.png" group-title="Documentary, HD",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/output/index.mpd?__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea&xxx=%7Ccookie=__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea
+#KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=287
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://10.136.171.124:8000/tataplay/get-mpd.php?id=287|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
-#EXTINF:-1 tvg-id="1335" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png",National Geographic HD
+#EXTINF:-1 tvg-id="ts113" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery Science.png" group-title="Educational",Discovery Science
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/output/index.mpd?__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea&xxx=%7Ccookie=__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea
+#KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=113
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://10.136.171.124:8000/tataplay/get-mpd.php?id=113|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
-#EXTINF:-1 tvg-id="1406" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic.png",National Geographic
+#EXTINF:-1 tvg-id="ts413" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nat Geo Wild HD.png" group-title="Documentary, HD",Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=053d3a1f8d5e5d759a7cbaa5b9ca7a0d:020e466407e9be52f1884697ef9d9ec9
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_BTS/output/index.mpd?__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea&xxx=%7Ccookie=__hdnea__=st=1755602443~exp=1755688843~acl=/*~hmac=e7c9a8c945f140f6d18c3fdabdf12fbf71bc5d7f8062b026b73f8ba0826906ea
+#KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=413
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://10.136.171.124:8000/tataplay/get-mpd.php?id=413|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
+#EXTINF:-1 tvg-id="ts184" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nat Geo Wild.png" group-title="Documentary",Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=184
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://10.136.171.124:8000/tataplay/get-mpd.php?id=184|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts605" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/National Geographic HD.png" group-title="Infotainment",National Geographic HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=605
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://10.136.171.124:8000/tataplay/get-mpd.php?id=605|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts137" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NGC.png" group-title="Infotainment",National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=137
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://10.136.171.124:8000/tataplay/get-mpd.php?id=137|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Marathi",Zee Marathi HD
 http://localhost:8900/zee5/index.php?id=0-9-zeemarathi
