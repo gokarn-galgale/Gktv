@@ -468,8 +468,9 @@ http://localhost:8900/TS-JioTV/app/ts_live_1066.m3u8
 http://localhost:8900/TS-JioTV/app/ts_live_1920.m3u8
 #EXTINF:-1 tvg-id="3022" tvg-name="Unique Tv" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Unique_Tv.png" group-title="Kids",Unique Tv
 http://localhost:8900/TS-JioTV/app/ts_live_3022.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="" group-title="Infotainment",Discovery Science
-http://filex.me:8080/live/wbNER77tKU/i1YcYBsPNU/246736.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science SD Hindi",Discovery Science SD Hindi Multi
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/113/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTINF:-1 tvg-id="821" tvg-name="SONY BBC EARTH HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",SONY BBC EARTH HD
 http://cool365.xyz:900/live/4160189881/DB4ACD54/36338.m3u8
 #EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment",Animal Planet Hindi
