@@ -56,7 +56,7 @@ https://m3u.ygxworld.in/extra/str-gold-select/manifest.m3u8?token=KziWqBpPXNY5|U
 #EXTINF:-1 tvg-id="ts1072" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SG2HD_Thumbnail-v1/SG2HD_Thumbnail.png" group-title="Movies",Star Gold 2 HD
 https://m3u.ygxworld.in/extra/str-gold-2/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Movies",Star Gold Thrills
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 
 #EXTINF:-1 tvg-id="ts1033" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="Sports",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1389,6 +1389,7 @@ http://localhost:8900/zee5/index.php?id=0-9-zeerajasthannews
 http://localhost:8900/zee5/index.php?id=0-9-zeemadhyapradeshchat
 #EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png" group-title="News",Zee News Uttar Pradesh Uttrakhand
 http://localhost:8900/zee5/index.php?id=0-9-channel_265145625
+
 
 
 
