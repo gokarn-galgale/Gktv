@@ -46,13 +46,13 @@ https://m3u.ygxworld.in/extra/str-gold-hd/manifest.m3u8?token=KziWqBpPXNY5|User-
 #EXTINF:-1 tvg-id="ts560" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12086-j9od8wxc-v1/imageContent-12086-j9od8wxc-m1.png" group-title="Movies",STAR MOVIES HD
 https://m3u.ygxworld.in/extra/str-movies/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Safari/537.36
 #EXTINF:-1 tvg-id="ts593" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12193-j9q33dpc-v2/imageContent-12193-j9q33dpc-m3.png" group-title="Movies",STAR MOVIES SELECT HD
-https://m3u.ygxworld.in/extra/str-movies-select/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Safari/537.36
+https://m3u.ygxworld.in/extra/str-movies-select/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ts493" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STGRR_Thumbnail-v1/STGRR_Thumbnail.png" group-title="Movies",STAR GOLD ROMANCE
-https://m3u.ygxworld.in/extra/str-gold-romance/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Safari/537.36
+https://m3u.ygxworld.in/extra/str-gold-romance/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ts494" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STRGLDTH_Thumbnail-v1/STRGLDTH_Thumbnail.png" group-title="Movies",Star Gold Thrills
-https://m3u.ygxworld.in/extra/str-gold-thrills/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Safari/537.36
+https://m3u.ygxworld.in/extra/str-gold-thrills/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ts595" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12199-j9q3sghc-v1/imageContent-12199-j9q3sghc-m1.png" group-title="Movies",Star Gold Select HD
-https://m3u.ygxworld.in/extra/str-gold-select/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Safari/537.36
+https://m3u.ygxworld.in/extra/str-gold-select/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ts1072" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SG2HD_Thumbnail-v1/SG2HD_Thumbnail.png" group-title="Movies",Star Gold 2 HD
 https://m3u.ygxworld.in/extra/str-gold-2/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 
@@ -1387,6 +1387,7 @@ http://localhost:8900/zee5/index.php?id=0-9-zeerajasthannews
 http://localhost:8900/zee5/index.php?id=0-9-zeemadhyapradeshchat
 #EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png" group-title="News",Zee News Uttar Pradesh Uttrakhand
 http://localhost:8900/zee5/index.php?id=0-9-channel_265145625
+
 
 
 
