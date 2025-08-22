@@ -55,9 +55,10 @@ https://m3u.ygxworld.in/extra/str-gold-thrills/manifest.m3u8?token=KziWqBpPXNY5|
 https://m3u.ygxworld.in/extra/str-gold-select/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ts1072" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SG2HD_Thumbnail-v1/SG2HD_Thumbnail.png" group-title="Movies",Star Gold 2 HD
 https://m3u.ygxworld.in/extra/str-gold-2/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Movies",Star Gold Thrills
-http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3711.ts
-
+#EXTINF:-1 group-title="Movies",Star Gold Thrills Gk
+http://91.218.50.30:2095/play/link/524fc000-c0e6-4079-b0e5-fd537d7b6922/eyJpdiI6IlFVNm5VN3N2V3dXTW0zcFRqM1U2QUE9PSIsInZhbHVlIjoiYWU2WTFwU3ovQjlNZTFaa3JJLzdyb1FacUl6YWhhaUVxKy9Kakp2Q1pOU3BBQXQ1WUJqQjFuNSsyL1luaVpnTTliRUttRGhibVk5RVhzdEE5Tm1FekE9PSIsIm1hYyI6ImI0Y2EyMjVlNTM5MGMyMDM3YjY5N2MzYjAzODFlOWE0Y2JkNjI1YWQwNTVmOTI4YWI3MDNlYTFjYjQ3MGZiYjQiLCJ0YWciOiIifQ==.ts
+#EXTINF:-1 group-title="Movies",Star Gold Thrills Gk 2
+http://91.218.50.30:2095/play/link/f7ec4f7f-01d1-433e-b281-0deb35b9a94b/eyJpdiI6IjJBR09ZR2hlbDFNNVNTb1dpQldCd3c9PSIsInZhbHVlIjoiZEExZy9CK08wZmhjMTV3eWdKVVdhcGdoRlRNekdpaHZoWm4vdU8wZWxBOWI0a3RFemxsMTBheTRpZGpEM3dnVUlWNWxjN2xWZHVoY1dRcjV6ZUtNWGc9PSIsIm1hYyI6ImU1ZWQ5MTgzMzE3MDlhZmUxODYxMDViM2RmM2I4YTE4MmY5YTZkMmZmNzZkOGUwYzVmZmE3MGY5YWE4NDg5YmQiLCJ0YWciOiIifQ==.ts
 
 #EXTINF:-1 tvg-id="ts1033" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="Sports",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1390,6 +1391,7 @@ http://localhost:8900/zee5/index.php?id=0-9-zeerajasthannews
 http://localhost:8900/zee5/index.php?id=0-9-zeemadhyapradeshchat
 #EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png" group-title="News",Zee News Uttar Pradesh Uttrakhand
 http://localhost:8900/zee5/index.php?id=0-9-channel_265145625
+
 
 
 
