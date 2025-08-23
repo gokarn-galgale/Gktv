@@ -10,7 +10,7 @@
 
 // ============ ⚙ CONFIGURATION ============
 const config = {
-    host: 'app.yupptv.io/stalker_portal/c/', // Replace with your Stalker-Portal host (e.g., 'example.com')
+    host: 'app.yupptv.io', // Replace with your Stalker-Portal host (e.g., 'example.com')
     mac_address: '00:1A:79:00:08:BC', // Replace with your MAC address
     serial_number: '6395F2DF5F07C', // Replace with your serial number
     device_id: 'D0D8882D37BE1F1B586BCC446B01F8F076CC84DA10B5C77F13720AE4E2AEA52D', // Replace with your device_id
