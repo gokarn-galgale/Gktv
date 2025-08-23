@@ -103,7 +103,7 @@ http://localhost:8900/tataplay/get-mpd.php?id=463|X-Forwarded-For=59.178.74.184&
 http://localhost:8900/tataplay/get-mpd.php?id=1717|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 
-#EXTINF:-1 tvg-id="ts114" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Disney.png" group-title="KIDS",Disney
+#EXTINF:-1 tvg-id="ts114" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Disney.png" group-title="Kids",Disney
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=114
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1391,6 +1391,7 @@ http://localhost:8900/zee5/index.php?id=0-9-zeerajasthannews
 http://localhost:8900/zee5/index.php?id=0-9-zeemadhyapradeshchat
 #EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png" group-title="News",Zee News Uttar Pradesh Uttrakhand
 http://localhost:8900/zee5/index.php?id=0-9-channel_265145625
+
 
 
 
