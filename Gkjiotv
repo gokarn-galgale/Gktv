@@ -38,11 +38,11 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11479-j9jr9a8o-v1/imageContent-11479-j9jr9a8o-m1.png" group-title="Kids",Hungama
-https://m3u.ygxworld.in/extra/hungama/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=TiviMate/5.1.0
+https://m3u.ygxworld.in/extra/hungama/manifest.m3u8?token=KziWqBpPXNY5
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD
-https://m3u.ygxworld.in/extra/dosney-hd/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=TiviMate/5.1.0
+https://m3u.ygxworld.in/extra/dosney-hd/manifest.m3u8?token=KziWqBpPXNY5
 #EXTINF:-1 tvg-id="ts245" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies",STAR GOLD HD
-https://m3u.ygxworld.in/extra/str-gold-hd/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=TiviMate/5.1.0
+https://m3u.ygxworld.in/extra/str-gold-hd/manifest.m3u8?token=KziWqBpPXNY5
 #EXTINF:-1 tvg-id="ts560" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12086-j9od8wxc-v1/imageContent-12086-j9od8wxc-m1.png" group-title="Movies",STAR MOVIES HD
 https://m3u.ygxworld.in/extra/str-movies/manifest.m3u8?token=KziWqBpPXNY5|User-Agent=TiviMate/5.1.0
 #EXTINF:-1 tvg-id="ts593" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12193-j9q33dpc-v2/imageContent-12193-j9q33dpc-m3.png" group-title="Movies",STAR MOVIES SELECT HD
@@ -1391,6 +1391,7 @@ http://localhost:8900/zee5/index.php?id=0-9-zeerajasthannews
 http://localhost:8900/zee5/index.php?id=0-9-zeemadhyapradeshchat
 #EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png" group-title="News",Zee News Uttar Pradesh Uttrakhand
 http://localhost:8900/zee5/index.php?id=0-9-channel_265145625
+
 
 
 
