@@ -10,11 +10,11 @@
 
 // ============ ⚙ CONFIGURATION ============
 const config = {
-    host: '', // Replace with your Stalker-Portal host (e.g., 'example.com')
-    mac_address: '', // Replace with your MAC address
-    serial_number: '', // Replace with your serial number
-    device_id: '', // Replace with your device_id
-    device_id_2: '', // Replace with your device_id_2
+    host: 'new.jiotv.be/stalker_portal/c/', // Replace with your Stalker-Portal host (e.g., 'example.com')
+    mac_address: '00:1A:79:97:55:B9', // Replace with your MAC address
+    serial_number: '500482917046B', // Replace with your serial number
+    device_id: 'B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66', // Replace with your device_id
+    device_id_2: 'B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66', // Replace with your device_id_2
     stb_type: 'MAG250', // Replace with Stalker-Portal Stb_type
     api_signature: '263', // No need to change
 };
