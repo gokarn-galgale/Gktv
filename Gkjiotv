@@ -248,6 +248,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd?__hdnea__=
 
 #EXTINF:-1 tvg-id="1146" tvg-name="SONY MARATHI" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",SONY MARATHI
 https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-id="1146" tvg-name="SONY MARATHI" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",SONY MARATHI UK
+https://gktb.galagalegokarn.workers.dev/5995.m3u8
 #EXTINF:-1 tvg-id="474" tvg-name="SONY PAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",SONY PAL
 https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-id="471" tvg-name="SONY SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",SONY SAB HD
@@ -1545,5 +1547,6 @@ http://localhost:8900/zee5/index.php?id=0-9-zeerajasthannews
 http://localhost:8900/zee5/index.php?id=0-9-zeemadhyapradeshchat
 #EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png" group-title="News",Zee News Uttar Pradesh Uttrakhand
 http://localhost:8900/zee5/index.php?id=0-9-channel_265145625
+
 
 
