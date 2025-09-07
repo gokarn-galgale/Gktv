@@ -1,5 +1,5 @@
 // Stalker-Portal To M3U Generator Script
-// Created by: @tg_aadi 
+// Created by: @tg_aadi
 // Telegram: https://t.me/tg_aadi
 // This script is free for everyone to use
 // If you encounter issues, check the console logs for debug information
@@ -10,13 +10,13 @@
 
 // ============ ⚙ CONFIGURATION ============
 const config = {
-    host: 'sky.dittotvv.cc',             // e.g. 'example.com' (your portal host without http/https)
-    mac_address: '00:1A:79:F2:B3:14',      // Your portal MAC address (e.g., 00:1A:79:12:34:56)
-    serial_number: 'A9790F4160084',    // Your device serial number
-    device_id: '09F00F06FD94E7A4034ADB2121040AB31C3B284A89C3295879CC94CF86A36228',        // Your Device ID
-    device_id_2: '09F00F06FD94E7A4034ADB2121040AB31C3B284A89C3295879CC94CF86A36228',      // Your Device ID 2
-    stb_type: 'MAG250',   // STB type (default MAG250)
-    api_signature: '263', // Keep as is
+    host: 'tv.fusion4k.cc', // Replace with your Stalker-Portal host (e.g., 'example.com')
+    mac_address: '00:1A:79:00:01:0F', // Replace with your MAC address
+    serial_number: '9BD7D66984A33', // Replace with your serial number
+    device_id: 'DD0A7A4816CCAFF3CBCA87AACD95CC186443DA13F83687813A3C92ED1C78640A', // Replace with your device_id
+    device_id_2: 'DD0A7A4816CCAFF3CBCA87AACD95CC186443DA13F83687813A3C92ED1C78640A', // Replace with your device_id_2
+    stb_type: 'MAG270', // Replace with Stalker-Portal Stb_type
+    api_signature: '263', // No need to change
 };
 
 // Auto-generate hw_version & hw_version_2
@@ -48,169 +48,107 @@ function getHeaders(token = '') {
     return headers;
 }
 
-async function getToken() {
-    const url = `http://${config.host}/stalker_portal/server/load.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml`;
+async function apiFetch(url, token) {
     try {
-        logDebug(`Fetching token from ${url}`);
-        const response = await fetch(url, { headers: getHeaders() });
-        logDebug(`getToken response status: ${response.status}`);
+        logDebug(`Fetching from ${url.substring(0, 100)}...`);
+        const response = await fetch(url, { headers: getHeaders(token) });
+        logDebug(`API response status: ${response.status} for ${url.substring(0, 50)}...`);
         if (!response.ok) {
-            logDebug(`getToken failed with status: ${response.status} ${response.statusText}`);
-            return '';
+            logDebug(`API call failed with status: ${response.status} ${response.statusText}`);
+            return null;
         }
         const text = await response.text();
-        logDebug(`getToken response (first 500 chars): ${text.substring(0, 500)}`);
+        logDebug(`API response text length: ${text.length}`);
         const data = JSON.parse(text);
-        const token = data.js?.token || '';
-        logDebug(`Extracted token: ${token ? 'Success' : 'Empty'}`);
-        return token;
+        return data.js || null;
     } catch (e) {
-        logDebug(`Error in getToken: ${e.message}`);
-        return '';
+        logDebug(`Error in API fetch for ${url.substring(0, 50)}...: ${e.message}`);
+        return null;
     }
 }
 
-async function auth(token) {
-    const metrics = {
-        mac: config.mac_address,
-        model: '',
-        type: 'STB',
-        uid: '',
-        device: '',
-        random: ''
-    };
-    const metricsEncoded = encodeURIComponent(JSON.stringify(metrics));
+async function getToken() {
+    const url = `http://${config.host}/stalker_portal/server/load.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml`;
+    const data = await apiFetch(url);
+    const token = data?.token || '';
+    logDebug(`Extracted initial token: ${token ? 'Success' : 'Empty'}`);
+    return token;
+}
 
-    const url = `http://${config.host}/stalker_portal/server/load.php?type=stb&action=get_profile`
+async function getStreamURL(id, token) {
+    const url = `http://${config.host}/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http://localhost/ch/${id}&JsHttpRequest=1-xml`;
+    const data = await apiFetch(url, token);
+    const stream = data?.cmd || '';
+    logDebug(`Stream URL for channel ID ${id}: ${stream ? 'Success' : 'Empty'}`);
+    return stream;
+}
+
+async function getAllData(token) {
+    const channelsUrl = `http://${config.host}/stalker_portal/server/load.php?type=itv&action=get_all_channels&JsHttpRequest=1-xml`;
+    const genresUrl = `http://${config.host}/stalker_portal/server/load.php?type=itv&action=get_genres&JsHttpRequest=1-xml`;
+
+    logDebug('Initiating concurrent fetch for channels and genres');
+
+    const [channelsData, genresData] = await Promise.all([
+        apiFetch(channelsUrl, token),
+        apiFetch(genresUrl, token)
+    ]);
+
+    let channels = [];
+    if (channelsData?.data) {
+        logDebug(`Found ${channelsData.data.length} channels`);
+        channels = channelsData.data;
+    } else {
+        logDebug('No channel data found');
+    }
+
+    let genres = [];
+    if (genresData) {
+        logDebug(`Found ${genresData.length} genres`);
+        genres = genresData;
+    } else {
+        logDebug('No genre data found');
+    }
+
+    return { channels, genres };
+}
+
+async function genTokenAndProfile() {
+    await generateHardwareVersions();
+    const token = await getToken();
+    if (!token) {
+        logDebug('Failed to retrieve initial token');
+        return { token: '', profile: null, account_info: null };
+    }
+
+    const authUrl = `http://${config.host}/stalker_portal/server/load.php?type=stb&action=get_profile`
         + `&hd=1&ver=ImageDescription:%200.2.18-r14-pub-250;`
         + `%20PORTAL%20version:%205.5.0;%20API%20Version:%20328;`
         + `&num_banks=2&sn=${config.serial_number}`
         + `&stb_type=${config.stb_type}&client_type=STB&image_version=218&video_out=hdmi`
         + `&device_id=${config.device_id}&device_id2=${config.device_id_2}`
         + `&signature=&auth_second_step=1&hw_version=${config.hw_version}`
-        + `&not_valid_token=0&metrics=${metricsEncoded}`
-        + `&hw_version_2=${config.hw_version_2}&api_signature=${config.api_signature}`
-        + `&prehash=&JsHttpRequest=1-xml`;
+        + `&not_valid_token=0&metrics=&hw_version_2=${config.hw_version_2}`
+        + `&api_signature=${config.api_signature}&prehash=&JsHttpRequest=1-xml`;
 
-    try {
-        logDebug(`Authenticating with URL: ${url.substring(0, 200)}...`);
-        const response = await fetch(url, { headers: getHeaders(token) });
-        logDebug(`auth response status: ${response.status}`);
-        if (!response.ok) {
-            logDebug(`auth failed with status: ${response.status} ${response.statusText}`);
-            return [];
-        }
-        const text = await response.text();
-        logDebug(`auth response (first 500 chars): ${text.substring(0, 500)}`);
-        const data = JSON.parse(text);
-        return data.js || [];
-    } catch (e) {
-        logDebug(`Error in auth: ${e.message}`);
-        return [];
-    }
-}
+    const handshakeUrl = `http://${config.host}/stalker_portal/server/load.php?type=stb&action=handshake&token=${token}&JsHttpRequest=1-xml`;
+    const accountUrl = `http://${config.host}/stalker_portal/server/load.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml`;
 
-async function handShake(token) {
-    const url = `http://${config.host}/stalker_portal/server/load.php?type=stb&action=handshake&token=${token}&JsHttpRequest=1-xml`;
-    try {
-        logDebug(`Performing handshake with token: ${token}`);
-        const response = await fetch(url, { headers: getHeaders() });
-        logDebug(`handShake response status: ${response.status}`);
-        if (!response.ok) {
-            logDebug(`handShake failed with status: ${response.status} ${response.statusText}`);
-            return '';
-        }
-        const text = await response.text();
-        logDebug(`handShake response (first 500 chars): ${text.substring(0, 500)}`);
-        const data = JSON.parse(text);
-        const newToken = data.js?.token || '';
-        logDebug(`New token: ${newToken ? 'Success' : 'Empty'}`);
-        return newToken;
-    } catch (e) {
-        logDebug(`Error in handShake: ${e.message}`);
-        return '';
-    }
-}
+    logDebug('Initiating concurrent fetch for profile, handshake, and account info');
 
-async function getAccountInfo(token) {
-    const url = `http://${config.host}/stalker_portal/server/load.php?type=account_info&action=get_main_info&JsHttpRequest=1-xml`;
-    try {
-        logDebug(`Fetching account info from ${url}`);
-        const response = await fetch(url, { headers: getHeaders(token) });
-        logDebug(`getAccountInfo response status: ${response.status}`);
-        if (!response.ok) {
-            logDebug(`getAccountInfo failed with status: ${response.status} ${response.statusText}`);
-            return [];
-        }
-        const text = await response.text();
-        logDebug(`getAccountInfo response (first 500 chars): ${text.substring(0, 500)}`);
-        const data = JSON.parse(text);
-        logDebug(`Account info response: ${JSON.stringify(data, null, 2)}`);
-        return data.js || [];
-    } catch (e) {
-        logDebug(`Error in getAccountInfo: ${e.message}`);
-        return [];
-    }
-}
+    const [profile, newTokenData, account_info_data] = await Promise.all([
+        apiFetch(authUrl, token),
+        apiFetch(handshakeUrl, token),
+        apiFetch(accountUrl, token)
+    ]);
 
-async function getGenres(token) {
-    const url = `http://${config.host}/stalker_portal/server/load.php?type=itv&action=get_genres&JsHttpRequest=1-xml`;
-    try {
-        logDebug(`Fetching genres from ${url}`);
-        const response = await fetch(url, { headers: getHeaders(token) });
-        logDebug(`getGenres response status: ${response.status}`);
-        if (!response.ok) {
-            logDebug(`getGenres failed with status: ${response.status} ${response.statusText}`);
-            return [];
-        }
-        const text = await response.text();
-        logDebug(`getGenres response (first 500 chars): ${text.substring(0, 500)}`);
-        const data = JSON.parse(text);
-        logDebug(`Fetched genres data`);
-        return data.js || [];
-    } catch (e) {
-        logDebug(`Error in getGenres: ${e.message}`);
-        return [];
-    }
-}
-
-async function getStreamURL(id, token) {
-    const url = `http://${config.host}/stalker_portal/server/load.php?type=itv&action=create_link&cmd=ffrt%20http://localhost/ch/${id}&JsHttpRequest=1-xml`;
-    try {
-        logDebug(`Fetching stream URL for channel ID: ${id}`);
-        const response = await fetch(url, { headers: getHeaders(token) });
-        logDebug(`getStreamURL response status: ${response.status}`);
-        if (!response.ok) {
-            logDebug(`getStreamURL failed with status: ${response.status} ${response.statusText}`);
-            return '';
-        }
-        const text = await response.text();
-        logDebug(`getStreamURL response (first 500 chars): ${text.substring(0, 500)}`);
-        const data = JSON.parse(text);
-        const stream = data.js?.cmd || '';
-        logDebug(`Stream URL: ${stream ? 'Success' : 'Empty'}`);
-        return stream;
-    } catch (e) {
-        logDebug(`Error in getStreamURL: ${e.message}`);
-        return '';
-    }
-}
-
-async function genToken() {
-    await generateHardwareVersions();
-    const token = await getToken();
-    if (!token) {
-        logDebug('Failed to retrieve initial token');
-        return { token: '', profile: [], account_info: [] };
-    }
-    const profile = await auth(token);
-    const newToken = await handShake(token);
+    const newToken = newTokenData?.token || '';
     if (!newToken) {
-        logDebug('Failed to retrieve new token');
-        return { token: '', profile, account_info: [] };
+        logDebug('Failed to retrieve new token after handshake');
+        return { token: '', profile, account_info: account_info_data };
     }
-    const account_info = await getAccountInfo(newToken);
-    return { token: newToken, profile, account_info };
+
+    return { token: newToken, profile, account_info: account_info_data };
 }
 
 async function convertJsonToM3U(channels, profile, account_info, request) {
@@ -221,7 +159,7 @@ async function convertJsonToM3U(channels, profile, account_info, request) {
         ''
     ];
 
-    let server_ip = profile.ip || 'Unknown';
+    let server_ip = profile?.ip || 'Unknown';
     m3u.push(`#EXTINF:-1 tvg-name="IP" tvg-logo="https://img.icons8.com/?size=160&id=OWj5Eo00EaDP&format=png" group-title="Portal | Info",IP • ${server_ip}`);
     m3u.push('https://tg-aadi.vercel.app/intro.m3u8');
 
@@ -235,20 +173,20 @@ async function convertJsonToM3U(channels, profile, account_info, request) {
     m3u.push(`#EXTINF:-1 tvg-name="Portal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png?20180223064625" group-title="Portal | Info",Portal • ${config.host}`);
     m3u.push('https://tg-aadi.vercel.app/intro.m3u8');
 
-    const created = profile.created || 'Unknown';
+    const created = profile?.created || 'Unknown';
     m3u.push(`#EXTINF:-1 tvg-name="Created" tvg-logo="https://cdn-icons-png.flaticon.com/128/1048/1048953.png" group-title="Portal | Info",Created • ${created}`);
     m3u.push('https://tg-aadi.vercel.app/intro.m3u8');
 
-    const end_date = account_info.end_date || 'Unknown';
+    const end_date = account_info?.end_date || 'Unknown';
     m3u.push(`#EXTINF:-1 tvg-name="Expire" tvg-logo="https://www.citypng.com/public/uploads/preview/hand-drawing-clipart-14-feb-calendar-icon-701751694973910ds70zl0u9u.png" group-title="Portal | Info",End date • ${end_date}`);
     m3u.push('https://tg-aadi.vercel.app/intro.m3u8');
 
-    const tariff_plan = account_info.tariff_plan || 'Unknown';
+    const tariff_plan = account_info?.tariff_plan || 'Unknown';
     m3u.push(`#EXTINF:-1 tvg-name="Tariff Plan" tvg-logo="https://img.lovepik.com/element/45004/5139.png_300.png" group-title="Portal | Info",Tariff Plan • ${tariff_plan}`);
     m3u.push('https://tg-aadi.vercel.app/intro.m3u8');
 
     let max_online = 'Unknown';
-    if (profile.storages && Object.keys(profile.storages).length > 0) {
+    if (profile?.storages && Object.keys(profile.storages).length > 0) {
         const first_storage = Object.values(profile.storages)[0];
         max_online = first_storage.max_online || 'Unknown';
     }
@@ -260,6 +198,12 @@ async function convertJsonToM3U(channels, profile, account_info, request) {
     if (!channels.length) {
         logDebug('No channels found');
     } else {
+        const groupTitleMap = {};
+        const genres = await getAllData(token).genres;
+        genres.forEach(group => {
+            groupTitleMap[group.id] = group.title || 'Other';
+        });
+
         channels.forEach((channel, index) => {
             let cmd = channel.cmd || '';
             let real_cmd = cmd.replace('ffrt http://localhost/ch/', '');
@@ -268,7 +212,8 @@ async function convertJsonToM3U(channels, profile, account_info, request) {
                 logDebug(`Invalid or empty cmd for channel #${index}: ${channel.name}`);
             }
             const logo_url = channel.logo ? `http://${config.host}/stalker_portal/misc/logos/320/${channel.logo}` : '';
-            m3u.push(`#EXTINF:-1 tvg-id="${channel.tvgid}" tvg-name="${channel.name}" tvg-logo="${logo_url}" group-title="${channel.title}",${channel.name}`);
+            const groupTitle = groupTitleMap[channel.tv_genre_id] || 'Other';
+            m3u.push(`#EXTINF:-1 tvg-id="${channel.xmltv_id}" tvg-name="${channel.name}" tvg-logo="${logo_url}" group-title="${groupTitle}",${channel.name}`);
             const channel_stream_url = `${origin}/${real_cmd}.m3u8`;
             m3u.push(channel_stream_url);
             if (index < 5) {
@@ -290,88 +235,40 @@ async function handleRequest(request) {
     const lastPart = pathParts[pathParts.length - 1];
 
     try {
-        // Generate token, profile, and account info
-        logDebug('Starting token generation');
-        const { token, profile, account_info } = await genToken();
-        if (!token) {
-            logDebug('Token generation failed, exiting');
-            return new Response('Token generation failed', { status: 500 });
+        logDebug('Starting token and profile generation');
+        const { token, profile, account_info } = await genTokenAndProfile();
+        if (!token || !profile || !account_info) {
+            logDebug('Initial setup failed, exiting');
+            return new Response('Failed to retrieve essential data. Check logs for details.', { status: 500 });
         }
-        logDebug('Token generation successful');
+        logDebug('Initial setup successful');
 
-        // Handle playlist request
         if (url.pathname === '/playlist.m3u8') {
-            // Fetch all channels
-            const channelsUrl = `http://${config.host}/stalker_portal/server/load.php?type=itv&action=get_all_channels&JsHttpRequest=1-xml`;
-            let channelsData;
-            try {
-                logDebug(`Fetching channels from ${channelsUrl}`);
-                const response = await fetch(channelsUrl, { headers: getHeaders(token) });
-                logDebug(`Channels response status: ${response.status}`);
-                if (!response.ok) {
-                    const errorText = await response.text();
-                    logDebug(`Fetch error in fetching channels: ${response.status} ${response.statusText}, Body: ${errorText.substring(0, 500)}`);
-                    return new Response(`Failed to fetch channels: ${response.status} ${response.statusText}`, { status: 500 });
-                }
-                const text = await response.text();
-                logDebug(`Channels response (first 500 chars): ${text.substring(0, 500)}`);
-                channelsData = JSON.parse(text);
-            } catch (e) {
-                logDebug(`Error in fetching channels: ${e.message}`);
-                return new Response(`Error fetching channels: ${e.message}`, { status: 500 });
+            logDebug('Processing playlist request');
+            const { channels, genres } = await getAllData(token);
+            if (!channels || !genres) {
+                return new Response('Failed to fetch channels or genres', { status: 500 });
             }
 
-            // Fetch genres
-            logDebug('Fetching genres');
-            const genres = await getGenres(token);
-
-            // Parse channels
-            let channels = [];
-            if (channelsData.js?.data) {
-                logDebug(`Found ${channelsData.js.data.length} channels in response`);
-                channels = channelsData.js.data.map((item, index) => {
-                    const channel = {
-                        name: item.name || 'Unknown',
-                        cmd: item.cmd || '',
-                        tvgid: item.xmltv_id || '',
-                        id: item.tv_genre_id || '',
-                        logo: item.logo || ''
-                    };
-                    if (index < 5) {
-                        logDebug(`Channel #${index}: ${JSON.stringify(channel, null, 2)}`);
-                    }
-                    return channel;
-                });
-            } else {
-                logDebug('No channel data found in response');
-            }
-
-            // Map genres to channels
             const groupTitleMap = {};
             genres.forEach(group => {
                 groupTitleMap[group.id] = group.title || 'Other';
             });
 
-            channels = channels.map(channel => ({
+            const channelsWithGenre = channels.map(channel => ({
                 ...channel,
-                title: groupTitleMap[channel.id] || 'Other'
+                title: groupTitleMap[channel.tv_genre_id] || 'Other'
             }));
 
-            // Generate M3U
-            logDebug('Generating M3U content');
-            const m3uContent = await convertJsonToM3U(channels, profile, account_info, request);
+            const m3uContent = await convertJsonToM3U(channelsWithGenre, profile, account_info, request);
 
-            // Return M3U response
-            logDebug('Returning M3U response');
             return new Response(m3uContent, {
-                headers: {
-                    'Content-Type': 'application/vnd.apple.mpegurl'
-                }
+                headers: { 'Content-Type': 'application/vnd.apple.mpegurl' }
             });
         }
 
-        // Handle stream link request
         if (lastPart.endsWith('.m3u8') && lastPart !== 'playlist.m3u8') {
+            logDebug('Processing stream request');
             const id = lastPart.replace(/\.m3u8$/, '');
             if (!id) {
                 logDebug('Missing channel ID in URL');
@@ -387,7 +284,6 @@ async function handleRequest(request) {
             return Response.redirect(stream, 302);
         }
 
-        // Handle invalid paths
         logDebug(`Invalid path requested: ${url.pathname}`);
         return new Response('Not Found', { status: 404 });
     } catch (e) {
